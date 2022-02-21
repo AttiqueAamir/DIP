@@ -1,0 +1,8 @@
+Deadline: Monday, Feb 21, 2022 by 11:59 PM (via Email)
+Problem-1:
+Denoise the image (Img-1) using Butterworth Notch Reject filter of order 4. Show the noisy image, clean image, and the noise pattern (by taking IDFT of the filtered out frequencies) in juxtaposition. Note: Use appropriate values of cutoff frequencies taking guidance from the DFT spectrum of the image.
+
+Problem-2:
+Denoise the image (Img-2) using Butterworth Band Reject filter of order 4. Show the noisy image, clean image, and the noise pattern (by taking IDFT of the filtered out frequencies) in juxtaposition. Note: Use appropriate values of cutoff frequency and the band width taking guidance from the DFT spectrum of the image.
+
+Submit a hardcopy (PDF) report detailing the solution procedures for the above problems, the results (images), their analyses, and the code (as annexure to the report).
